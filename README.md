@@ -77,8 +77,7 @@ Filtering is case-insensitive.
 ## Example Response
 
 {
-  "services": [
-    
+  "services": [    
     {
       "id": "authentication",
       "name": "Authentication",
@@ -114,8 +113,7 @@ Filtering is case-insensitive.
       "status": "DOWN"
     }
     
-  ],
-  
+  ],  
   "summary": {
     "total": 5,
     "operational": 3,
