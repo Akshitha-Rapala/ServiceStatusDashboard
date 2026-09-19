@@ -76,51 +76,6 @@ Filtering is case-insensitive.
 
 ## Example Response
 
-
-{
-  "services": [
-    
-    {
-      "id": "authentication",
-      "name": "Authentication",
-      "description": "Identity, sign-in, and session management.",
-      "status": "OPERATIONAL"
-    },
-    {
-      "id": "payments",
-      "name": "Payments",
-      "description": "Payment processing and billing operations.",
-      "status": "OPERATIONAL"
-    },
-    {
-      "id": "notifications",
-      "name": "Notifications",
-      "description": "Email, push, and in-app message delivery.",
-      "status": "DEGRADED"
-    },
-    {
-      "id": "search",
-      "name": "Search",
-      "description": "Indexing and search across the platform.",
-      "status": "OPERATIONAL"
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "description": "AI-powered inference and platform assistance.",
-      "status": "DOWN"
-    }
-  ],
-  "summary": {
-    "total": 5,
-    "operational": 3,
-    "degraded": 1,
-    "down": 1
-  },
-  "generatedAt": "2026-09-19T21:49:14.838281700Z"
-}
-
-
 {
   "services": [    
     
