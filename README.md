@@ -61,7 +61,9 @@ Returns all service statuses.
 Example:
 
 GET /api/v1/services?status=OPERATIONAL
+
 GET /api/v1/services?status=DEGRADED
+
 GET /api/v1/services?status=DOWN
 
 Supported filters:
