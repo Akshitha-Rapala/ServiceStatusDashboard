@@ -78,6 +78,7 @@ Filtering is case-insensitive.
 
 {
   "services": [    
+    
     {
       "id": "authentication",
       "name": "Authentication",
@@ -114,14 +115,14 @@ Filtering is case-insensitive.
     }
     
   ],  
+  
   "summary": {
     "total": 5,
     "operational": 3,
     "degraded": 1,
     "down": 1
   },
-  "generatedAt": "2026-09-19T21:49:14.838281700Z"
-  
+  "generatedAt": "2026-09-19T21:49:14.838281700Z"  
 }
 
 ## Error Handling
